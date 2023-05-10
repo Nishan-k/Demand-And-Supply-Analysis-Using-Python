@@ -1,2 +1,2 @@
 # Demand And Supply Analysis Using Python
- Analyzing the relationship between the quantity demanded and the quantity supplied.
+ Analyzing the relationship between the quantity demanded and the quantity supplied for Cab services.
